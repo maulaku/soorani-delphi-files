@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{8DD70807-8BF8-4F86-9ECF-CCE909FF08BE}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="name.exe">name.bdsproj</Projects>
+      <Projects Name="singlebase.exe">..\SingleBase\singlebase.bdsproj</Projects>
+      <Projects Name="dclrx2005.bpl">..\rx\dclrx2005.bdsproj</Projects>
+      <Projects Name="dclrxbd2005.bpl">..\rx\dclrxbd2005.bdsproj</Projects>
+      <Projects Name="dclrxdb2005.bpl">..\rx\dclrxdb2005.bdsproj</Projects>
+      <Projects Name="rxdb2005.bpl">..\rx\rxdb2005.bdsproj</Projects>
+      <Projects Name="Targets">name.exe singlebase.exe dclrx2005.bpl dclrxbd2005.bpl dclrxdb2005.bpl rxdb2005.bpl</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
