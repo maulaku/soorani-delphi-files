@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/09/15 17:34:06.907.pas,C:\Documents and Settings\majid\My Documents\Borland Studio Projects\Unit1.pas=C:\ActivePrjs\delphi\name\fmNameMain.pas</Transaction>
+    <Transaction>2006/09/15 17:34:06.954.dfm,C:\Documents and Settings\majid\My Documents\Borland Studio Projects\Unit1.dfm=C:\ActivePrjs\delphi\name\fmNameMain.dfm</Transaction>
+    <Transaction>2006/09/18 00:05:42.875.pas,C:\ActivePrjs\delphi\name\fmGsnFrm.pas=</Transaction>
+    <Transaction>2006/09/18 00:05:42.890.dfm,C:\ActivePrjs\delphi\name\fmGsnFrm.dfm=</Transaction>
+    <Transaction>2006/09/18 00:11:46.578.pas,C:\ActivePrjs\delphi\name\fmPScrXP.pas=</Transaction>
+    <Transaction>2006/09/18 00:11:46.578.dfm,C:\ActivePrjs\delphi\name\fmPScrXP.dfm=</Transaction>
+    <Transaction>2006/09/18 00:11:56.968.pas,C:\ActivePrjs\delphi\name\fmPScr.pas=</Transaction>
+    <Transaction>2006/09/18 00:11:56.968.dfm,C:\ActivePrjs\delphi\name\fmPScr.dfm=</Transaction>
+    <Transaction>2006/09/29 23:39:09.078.pas,C:\ActivePrjs\delphi\name\fmInNameMain.pas=C:\ActivePrjs\delphi\name\fmInNameMain1.pas</Transaction>
+    <Transaction>2006/09/29 23:39:09.078.dfm,C:\ActivePrjs\delphi\name\fmInNameMain.dfm=C:\ActivePrjs\delphi\name\fmInNameMain1.dfm</Transaction>
+    <Transaction>2006/09/29 23:44:38.703.pas,C:\ActivePrjs\delphi\name\fmInNameMain1.pas=C:\ActivePrjs\delphi\name\fmInRequestChangeFamily.pas</Transaction>
+    <Transaction>2006/09/29 23:44:38.703.dfm,C:\ActivePrjs\delphi\name\fmInNameMain1.dfm=C:\ActivePrjs\delphi\name\fmInRequestChangeFamily.dfm</Transaction>
+    <Transaction>2006/10/03 22:18:12.781.pas,C:\ActivePrjs\delphi\name\Unit2.pas=C:\ActivePrjs\delphi\name\fmPScrXP1.pas</Transaction>
+    <Transaction>2006/10/03 22:18:12.812.dfm,C:\ActivePrjs\delphi\name\Unit2.dfm=C:\ActivePrjs\delphi\name\fmPScrXP1.dfm</Transaction>
+    <Transaction>2006/10/03 22:36:25.734.pas,C:\ActivePrjs\delphi\name\fmPScrXP1.pas=</Transaction>
+    <Transaction>2006/10/03 22:36:25.734.dfm,C:\ActivePrjs\delphi\name\fmPScrXP1.dfm=</Transaction>
+    <Transaction>2006/10/03 22:36:31.734.pas,C:\ActivePrjs\delphi\name\Unit2.pas=C:\ActivePrjs\delphi\name\fmPScrXP1.pas</Transaction>
+    <Transaction>2006/10/03 22:36:31.734.dfm,C:\ActivePrjs\delphi\name\Unit2.dfm=C:\ActivePrjs\delphi\name\fmPScrXP1.dfm</Transaction>
+    <Transaction>2006/10/03 23:16:59.250.pas,C:\ActivePrjs\delphi\name\fmPScrXP1.pas=</Transaction>
+    <Transaction>2006/10/03 23:16:59.250.dfm,C:\ActivePrjs\delphi\name\fmPScrXP1.dfm=</Transaction>
+    <Transaction>2006/10/04 00:24:52.718.pas,C:\ActivePrjs\delphi\name\Unit2.pas=C:\ActivePrjs\delphi\SharedUnits\fmSendMessage.pas</Transaction>
+    <Transaction>2006/10/04 00:24:52.750.dfm,C:\ActivePrjs\delphi\name\Unit2.dfm=C:\ActivePrjs\delphi\SharedUnits\fmSendMessage.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

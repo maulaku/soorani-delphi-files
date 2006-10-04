@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/08/21 16:34:05.812.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcabout.pas=</Transaction>
+    <Transaction>2006/08/21 16:34:05.843.dfm,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcabout.dfm=</Transaction>
+    <Transaction>2006/08/21 16:38:48.203.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcBitmap.pas=</Transaction>
+    <Transaction>2006/08/21 16:38:50.640.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcbutton.pas=</Transaction>
+    <Transaction>2006/08/21 16:38:53.250.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcbuttongroup.pas=</Transaction>
+    <Transaction>2006/08/21 16:38:55.328.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcCalcEdit.pas=</Transaction>
+    <Transaction>2006/08/21 16:38:58.093.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcCalculator.pas=</Transaction>
+    <Transaction>2006/08/21 16:39:00.890.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcCanvas.pas=</Transaction>
+    <Transaction>2006/08/21 16:39:03.531.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcChangeLInk.pas=</Transaction>
+    <Transaction>2006/08/21 16:39:05.312.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcclearpanel.pas=</Transaction>
+    <Transaction>2006/08/21 16:39:06.953.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fcCollection.pas=</Transaction>
+    <Transaction>2006/08/21 16:39:11.718.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fccolorcombo.pas=</Transaction>
+    <Transaction>2006/08/21 16:39:20.062.pas,C:\ActivePrjs\delphi\1stClass4000.1\RENEGADE\VCL7\source\fccombo.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
