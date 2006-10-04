@@ -1,0 +1,13 @@
+[
+  uuid(F7B398E2-74C8-11D3-8B3E-008048C3B35B), 
+  version(1.0), 
+  helpstring("Amval Library")
+    
+]
+library Amval
+{
+
+  importlib("stdole2.tlb");
+  importlib("STDVCL40.DLL");
+
+}; 

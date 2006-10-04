@@ -1,0 +1,42 @@
+-$A+
+-$B-
+-$C+
+-$D+
+-$E-
+-$F-
+-$G+
+-$H+
+-$I+
+-$J+
+-$K-
+-$L+
+-$M-
+-$N+
+-$O+
+-$P+
+-$Q-
+-$R-
+-$S-
+-$T-
+-$U-
+-$V+
+-$W-
+-$X+
+-$YD
+-$Z1
+-cg
+-AWinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+-H+
+-W+
+-$M16384,1048576
+-K4194304
+-E"D:\Exec"
+-N"D:\exec\dcu"
+-U"d:\Program Files\Woll2Woll\1stClass3000vcl6\LIB;D:\Program Files\Borland\Delphi6\Lib;D:\Program Files\Borland\Delphi6\Bin;D:\Program Files\Borland\Delphi6\Imports;D:\Program Files\Borland\Delphi6\Projects\Bpl;\\Iceberg\RadComp6;\\Iceberg\Amval_Anbar\NewComp6;f:\software\delphi_com\mdiwallp;D:\Program Files\Rx Library\units;D:\Program Files\Rx Library;D:\Program Files\Borland\Delphi6\RBuilder\Lib;f:\software\delphi_com\newcomp6;\\iceberg\software\delphi_com\mdiwallp;\\Iceberg\Amval_Anbar\Asset6;\\Iceberg\Amval_Anbar\ShareUnit;d:\Exec\Dcu6\;\\iceberg\amval_anbar\shareunits;C:\Magic Of Delphi CD1\Package13;\\Iceberg\RadComp6\;d:\exec\reportbuilder0810\professional edition\report builder\backuplib;D:\Program Files\Borland\Delphi6\Source\ToolsAPI;D:\Temp\TestCom;d:\temp\testcom\2;d:\temp\testcom\3;d:\temp\testcom\4\source;d:\temp\testcomponent;c:\abfsoft\units;E:\Program Files\Addict3\Source\d6;E:\Program Files\TurboDB\Windows\libe\Delphi6;C:\NAGCOM~1\LibD6;d:\temp\component\delphi6;"
+-O"d:\Program Files\Woll2Woll\1stClass3000vcl6\LIB;D:\Program Files\Borland\Delphi6\Lib;D:\Program Files\Borland\Delphi6\Bin;D:\Program Files\Borland\Delphi6\Imports;D:\Program Files\Borland\Delphi6\Projects\Bpl;\\Iceberg\RadComp6;\\Iceberg\Amval_Anbar\NewComp6;f:\software\delphi_com\mdiwallp;D:\Program Files\Rx Library\units;D:\Program Files\Rx Library;D:\Program Files\Borland\Delphi6\RBuilder\Lib;f:\software\delphi_com\newcomp6;\\iceberg\software\delphi_com\mdiwallp;\\Iceberg\Amval_Anbar\Asset6;\\Iceberg\Amval_Anbar\ShareUnit;d:\Exec\Dcu6\;\\iceberg\amval_anbar\shareunits;C:\Magic Of Delphi CD1\Package13;\\Iceberg\RadComp6\;d:\exec\reportbuilder0810\professional edition\report builder\backuplib;D:\Program Files\Borland\Delphi6\Source\ToolsAPI;D:\Temp\TestCom;d:\temp\testcom\2;d:\temp\testcom\3;d:\temp\testcom\4\source;d:\temp\testcomponent;c:\abfsoft\units;E:\Program Files\Addict3\Source\d6;E:\Program Files\TurboDB\Windows\libe\Delphi6;C:\NAGCOM~1\LibD6;d:\temp\component\delphi6;"
+-I"d:\Program Files\Woll2Woll\1stClass3000vcl6\LIB;D:\Program Files\Borland\Delphi6\Lib;D:\Program Files\Borland\Delphi6\Bin;D:\Program Files\Borland\Delphi6\Imports;D:\Program Files\Borland\Delphi6\Projects\Bpl;\\Iceberg\RadComp6;\\Iceberg\Amval_Anbar\NewComp6;f:\software\delphi_com\mdiwallp;D:\Program Files\Rx Library\units;D:\Program Files\Rx Library;D:\Program Files\Borland\Delphi6\RBuilder\Lib;f:\software\delphi_com\newcomp6;\\iceberg\software\delphi_com\mdiwallp;\\Iceberg\Amval_Anbar\Asset6;\\Iceberg\Amval_Anbar\ShareUnit;d:\Exec\Dcu6\;\\iceberg\amval_anbar\shareunits;C:\Magic Of Delphi CD1\Package13;\\Iceberg\RadComp6\;d:\exec\reportbuilder0810\professional edition\report builder\backuplib;D:\Program Files\Borland\Delphi6\Source\ToolsAPI;D:\Temp\TestCom;d:\temp\testcom\2;d:\temp\testcom\3;d:\temp\testcom\4\source;d:\temp\testcomponent;c:\abfsoft\units;E:\Program Files\Addict3\Source\d6;E:\Program Files\TurboDB\Windows\libe\Delphi6;C:\NAGCOM~1\LibD6;d:\temp\component\delphi6;"
+-R"d:\Program Files\Woll2Woll\1stClass3000vcl6\LIB;D:\Program Files\Borland\Delphi6\Lib;D:\Program Files\Borland\Delphi6\Bin;D:\Program Files\Borland\Delphi6\Imports;D:\Program Files\Borland\Delphi6\Projects\Bpl;\\Iceberg\RadComp6;\\Iceberg\Amval_Anbar\NewComp6;f:\software\delphi_com\mdiwallp;D:\Program Files\Rx Library\units;D:\Program Files\Rx Library;D:\Program Files\Borland\Delphi6\RBuilder\Lib;f:\software\delphi_com\newcomp6;\\iceberg\software\delphi_com\mdiwallp;\\Iceberg\Amval_Anbar\Asset6;\\Iceberg\Amval_Anbar\ShareUnit;d:\Exec\Dcu6\;\\iceberg\amval_anbar\shareunits;C:\Magic Of Delphi CD1\Package13;\\Iceberg\RadComp6\;d:\exec\reportbuilder0810\professional edition\report builder\backuplib;D:\Program Files\Borland\Delphi6\Source\ToolsAPI;D:\Temp\TestCom;d:\temp\testcom\2;d:\temp\testcom\3;d:\temp\testcom\4\source;d:\temp\testcomponent;c:\abfsoft\units;E:\Program Files\Addict3\Source\d6;E:\Program Files\TurboDB\Windows\libe\Delphi6;C:\NAGCOM~1\LibD6;d:\temp\component\delphi6;"
+-U"f:\software\delphi6_cd2\walden_consulting\logtext_component"
+-O"f:\software\delphi6_cd2\walden_consulting\logtext_component"
+-I"f:\software\delphi6_cd2\walden_consulting\logtext_component"
+-R"f:\software\delphi6_cd2\walden_consulting\logtext_component"
