@@ -1,0 +1,51 @@
+package AddComp;
+
+{$R *.res}
+{$R 'MSHTML_TLB.dcr'}
+{$R 'DHTMLEDLib_TLB.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'Created By Majid Surany'}
+{$IMPLICITBUILD OFF}
+
+requires
+  vcl,
+  rtl,
+  vclx,
+  dbrtl,
+  vcldb,
+  adortl,
+  rbRCL99,
+  rbIDE99,
+  rbDB99;
+
+contains
+  dxfDesigner in 'dxfDesigner.pas',
+  antMovablePanel in 'antMovablePanel.pas',
+  _antPanelsReg in '_antPanelsReg.pas',
+  Danhint in 'Danhint.pas',
+  Filter in 'Filter.pas',
+  MSHTML_TLB in 'MSHTML_TLB.pas',
+  DHTMLEDLib_TLB in 'DHTMLEDLib_TLB.pas',
+  MDIWallp in 'MDIWallp.pas';
+
+end.
