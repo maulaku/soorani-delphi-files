@@ -1,0 +1,57 @@
+package RadSman;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'Rad-Samaneh'}
+{$IMPLICITBUILD ON}
+
+requires
+  vcl,
+  vcldb,
+  dclstd,
+  adortl;
+
+contains
+  RSqlButton in 'RSqlButton.pas',
+  RSQLComboBox in 'RSQLComboBox.pas',
+  RSqlEdit in 'RSqlEdit.pas',
+  RSqllookup in 'RSqllookup.pas',
+  RSqlMaskEdit in 'RSqlMaskEdit.pas',
+  RSqlMemo in 'RSqlMemo.pas',
+  SetForm in 'SetForm.pas',
+  UnAllChange in 'UnAllChange.pas',
+  ComboItemsEditor in 'ComboItemsEditor.pas' {FmComboItems},
+  FmConfirm in 'FmConfirm.pas' {Confirm},
+  RadSecurity in 'RadSecurity.pas',
+  PipeTh in 'PipeTh.pas',
+  currencyConvertor in 'currencyConvertor.pas',
+  RSqlDbStringGrid in 'RSqlDbStringGrid.pas',
+  MSNPopUp in 'MSNPopUp.pas',
+  SmoothShow in 'SmoothShow.pas',
+  XPPlus in 'XPPlus.pas',
+  OldComponent in 'OldComponent.pas',
+  ScrollXPBar in 'ScrollXPBar.pas',
+  ControlSubClass in 'ControlSubClass.Pas',
+  XPMenu in 'XPMenu.pas';
+
+end.
